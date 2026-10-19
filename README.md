@@ -3,35 +3,30 @@
 
 <img src="./cover.jpg" width="100%" />
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF8FA,50:F8E5EB,100:EFD0DC&height=140&section=header&text=dashully&fontSize=55&fontColor=C595A7&fontAlignY=55" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FADCE8,100:FFF4F8&height=120&section=header&text=dashully&fontSize=55&fontColor=D879A0&fontAlignY=55" width="100%" />
+♡ *a little world of my own* ♡
 
-### 🎀 ୨୧ welcome to my little world ୨୧ 🎀
+`python` · `html` · `css`
 
-*♡ coding, dreaming & creating ♡*
-
-[about me](#-about-me) · [my skills](#-my-skills) · [projects](#-my-projects)
+୨୧ ─────────────── ୨୧
 
 </div>
 
----
+## ♡ about me
 
-## 🎀 about me
+hiii! i'm **dashully** 🎀
 
-hiii, i'm **dashully** ♡
+a beginner developer learning to create beautiful things with code.
 
-a beginner developer learning new things and making the internet a little prettier.
-
-- 🩷 learning Python, HTML & CSS
-- 🎧 music is always playing
-- 🎀 obsessed with cute aesthetics
-- ☁️ dreaming big, starting small
-- 🧸 creating my own little projects
+- 🌷 currently learning Python, HTML & CSS
+- ☁️ exploring web development
+- 🎧 music, inspiration & little details
+- 🩰 learning at my own pace
 
 ---
 
-## ♡ my skills
+## 🌸 my tech stack
 
 <div align="center">
 
@@ -39,23 +34,23 @@ a beginner developer learning new things and making the internet a little pretti
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-learning-F8D7E5?style=for-the-badge&logo=python&logoColor=C66B91" />
-<img src="https://img.shields.io/badge/HTML-learning-FFE7EF?style=for-the-badge&logo=html5&logoColor=C66B91" />
-<img src="https://img.shields.io/badge/CSS-learning-F3C5D8?style=for-the-badge&logo=css3&logoColor=C66B91" />
+<img src="https://img.shields.io/badge/python-learning-F3DDE5?style=flat-square&logo=python&logoColor=B88A9B" />
+<img src="https://img.shields.io/badge/html-learning-F8E9EE?style=flat-square&logo=html5&logoColor=B88A9B" />
+<img src="https://img.shields.io/badge/css-learning-EBD9EF?style=flat-square&logo=css3&logoColor=B88A9B" />
 
 </div>
 
 ---
 
-## 🩰 my projects
+## 🎀 little projects
 
-*little things i'm working towards ♡*
+*small beginnings, sweet ideas.*
 
-- 🎀 **python diary** — coding exercises
-- 🩷 **pink web page** — HTML & CSS experiments
-- 🧸 **my little corner** — personal website ideas
+- ♡ python practice — exercises and experiments
+- ♡ little website — learning HTML and CSS
+- ♡ personal corner — ideas for future projects
 
-<sub>more projects coming soon... ♡</sub>
+<sub>projects will appear here as i create them ♡</sub>
 
 ---
 
@@ -63,11 +58,11 @@ a beginner developer learning new things and making the internet a little pretti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dashully&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D879A0&text_color=997485&icon_color=E6A4BE" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dashully&show_icons=true&hide_border=true&bg_color=FFF8FA&title_color=C595A7&text_color=9A8490&icon_color=D9B0BF" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashully&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D879A0&text_color=997485" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashully&layout=compact&hide_border=true&bg_color=FFF8FA&title_color=C595A7&text_color=9A8490" />
 
 </div>
 
@@ -75,10 +70,11 @@ a beginner developer learning new things and making the internet a little pretti
 
 <div align="center">
 
-୨୧ 🎀 ♡ 🩷 ♡ 🎀 ୨୧
+♡ ୨୧ 🌷 ୨୧ ♡
 
-*you're doing better than you think.*
+*little steps, lovely things.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4ED,100:F5BFD5&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8E5EB,100:FFF8FA&height=100&section=footer" width="100%" />
 
 </div>
+
