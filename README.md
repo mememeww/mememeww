@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./cover.jpg" width="100%" />
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF8FA,50:F8E5EB,100:EFD0DC&height=140&section=header&text=dashully&fontSize=55&fontColor=C595A7&fontAlignY=55" width="100%" />
 
 ♡ *a little world of my own* ♡
