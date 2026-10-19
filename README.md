@@ -1,19 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#FFF5FA"/>
-      <stop offset="0.6" stop-color="#FFD9EA"/>
-      <stop offset="1" stop-color="#FF7EB6"/>
-    </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="12" result="b"/>
-      <feBlend in="SourceGraphic" in2="b"/>
-    </filter>
-  </defs>
-  <rect width="100%" height="100%" rx="40" fill="url(#g)"/>
-  <g filter="url(#soft)">
-    <circle cx="380" cy="120" r="90" fill="#F2E8FF" opacity="0.35"/>
-    <circle cx="90" cy="380" r="70" fill="#FFC4D9" opacity="0.25"/>
-  </g>
-  <text x="50%" y="54%" text-anchor="middle" font-family="Montserrat, Poppins, Arial, sans-serif" font-size="72" font-weight="700" fill="#FFFFFF" style="letter-spacing:2px">mememeww</text>
-</svg>
+
+<div align="center">
+
+<img src="./cover.jpg" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FADCE8,100:FFF4F8&height=120&section=header&text=dashully&fontSize=55&fontColor=D879A0&fontAlignY=55" width="100%" />
+
+### 🎀 ୨୧ welcome to my little world ୨୧ 🎀
+
+*♡ coding, dreaming & creating ♡*
+
+[about me](#-about-me) · [my skills](#-my-skills) · [projects](#-my-projects)
+
+</div>
+
+---
+
+## 🎀 about me
+
+hiii, i'm **dashully** ♡
+
+a beginner developer learning new things and making the internet a little prettier.
+
+- 🩷 learning Python, HTML & CSS
+- 🎧 music is always playing
+- 🎀 obsessed with cute aesthetics
+- ☁️ dreaming big, starting small
+- 🧸 creating my own little projects
+
+---
+
+## ♡ my skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-learning-F8D7E5?style=for-the-badge&logo=python&logoColor=C66B91" />
+<img src="https://img.shields.io/badge/HTML-learning-FFE7EF?style=for-the-badge&logo=html5&logoColor=C66B91" />
+<img src="https://img.shields.io/badge/CSS-learning-F3C5D8?style=for-the-badge&logo=css3&logoColor=C66B91" />
+
+</div>
+
+---
+
+## 🩰 my projects
+
+*little things i'm working towards ♡*
+
+- 🎀 **python diary** — coding exercises
+- 🩷 **pink web page** — HTML & CSS experiments
+- 🧸 **my little corner** — personal website ideas
+
+<sub>more projects coming soon... ♡</sub>
+
+---
+
+## 🌷 github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dashully&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D879A0&text_color=997485&icon_color=E6A4BE" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashully&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D879A0&text_color=997485" />
+
+</div>
+
+---
+
+<div align="center">
+
+୨୧ 🎀 ♡ 🩷 ♡ 🎀 ୨୧
+
+*you're doing better than you think.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4ED,100:F5BFD5&height=110&section=footer" width="100%" />
+
+</div>
