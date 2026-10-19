@@ -13,7 +13,7 @@
 
 ## ♡ about me
 
-hiii! i'm **dashully** 🎀
+hiii! i'm **Даша** 🎀
 
 a beginner developer learning to create beautiful things with code.
 
